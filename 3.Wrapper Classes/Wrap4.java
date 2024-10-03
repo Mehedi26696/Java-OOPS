@@ -1,7 +1,7 @@
 
 //when a non primitive is final we can't re assign it;
 import java.util.*;
-public class int15{
+public class Wrap4{
 
         public static void main(String[] args)
           {

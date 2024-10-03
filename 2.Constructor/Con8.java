@@ -3,7 +3,7 @@
 
 
 import java.util.*;
-public class int10{
+public class Con8{
        
         
 

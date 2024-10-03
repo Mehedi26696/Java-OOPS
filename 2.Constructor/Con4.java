@@ -1,9 +1,8 @@
 
 
-//Add function inside class
 
 import java.util.*;
-public class int5{
+public class Con4{
        
         
 
@@ -12,12 +11,12 @@ public class int5{
                 Scanner sc = new Scanner(System.in);
             
                 Student mehedi = new Student();
- 
-                 mehedi.greeting();
                  
-                // System.out.println(mehedi.rno); 
-                // System.out.println(mehedi.name);  
-                // System.out.println(mehedi.marks);  
+                
+                mehedi.greeting();
+                mehedi.changename("Dominik Solankee");
+                mehedi.greeting();
+  
 
 
                  
@@ -32,6 +31,10 @@ class Student{
     
     void greeting(){
         System.out.println("Hello! My name is "+this.name);
+    }
+
+    void changename(String newName){
+        this.name = newName;
     }
     Student(){
         this.rno =13;

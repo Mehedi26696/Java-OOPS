@@ -1,9 +1,8 @@
 
-// constructor overloading
-
+//this
 
 import java.util.*;
-public class int8{
+public class Con5{
        
         
 
@@ -17,12 +16,6 @@ public class int8{
                 System.out.println(mehedi.rno); 
                 System.out.println(mehedi.name);  
                 System.out.println(mehedi.marks);  
-
-                Student gakpo = new Student();
-
-                System.out.println(gakpo.rno); 
-                System.out.println(gakpo.name);  
-                System.out.println(gakpo.marks); 
   
 
 
@@ -35,16 +28,26 @@ class Student{
     int rno;
     String name;
     float marks;
+    
+    // Student(int roll,String nam,float score){
+    //     rno =roll;
+    //     name = nam;
+    //     marks = score;
+    // }
 
-    Student(){
-        this.rno =49;
-        this.name = "Fedrico Dimarco";
-        this.marks = 67.78f;
-    }
+
+
+    // Student(int roll,String nam,float score){
+    //     this.rno =roll;
+    //     this.name = nam;
+    //     this.marks = score;
+    // }
 
 
     
     // when the argument and variable name is same we have to put this. Otherwise it won't work
+    //Student mehedi = new Student(24,"Mehedi Hasan",45.78f);
+    //here this will replace by mehedi
     Student(int rno,String name,float marks){
         this.rno =rno;
         this.name = name;

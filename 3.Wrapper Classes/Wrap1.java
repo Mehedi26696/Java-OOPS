@@ -2,7 +2,7 @@
 //Wrapper Classes
 
 import java.util.*;
-public class int12{
+public class Wrap1{
 
         public static void main(String[] args)
           {

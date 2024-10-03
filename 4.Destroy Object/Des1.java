@@ -3,7 +3,7 @@
 // But we can set something to do when object are destroying by java
 
 import java.util.*;
-public class int16{
+public class Des1{
 
         public static void main(String[] args)
           {

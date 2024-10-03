@@ -1,13 +1,10 @@
 
-//Creating constructor
-
-
 //Constructor is specialtype of function in the class
 //that run when we create an object and it allocates some variable
 
 
 import java.util.*;
-public class int4{
+public class Con1{
        
         
 
@@ -35,17 +32,4 @@ class Student{
     int rno;
     String name;
     float marks;
-
-
-    //this is constructor
-    // we need a way to add the values of the above
-    //properties object by object
-
-    //we need one word to access every object
-    // for this we need a keyword -> 'this'
-    Student(){
-        this.rno =13;
-        this.name = "Mehedi Hasan";
-        this.marks = 56.89f;
-    }
 }

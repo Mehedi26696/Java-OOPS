@@ -4,7 +4,7 @@
 // we can't modify this
 
 import java.util.*;
-public class int14{
+public class Wrap3{
 
         public static void main(String[] args)
           {
