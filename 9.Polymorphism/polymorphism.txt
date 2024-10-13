@@ -1,0 +1,6 @@
+
+//Polymorphism -> Poly means many and morphism means ways to represents
+
+//Types of Polymorphism:
+ -> Compile Time/Static Polymorphism -> achieved by method overloading means same name but types,arguments,return types can be different(Example: Multiple constructor)
+ -> Runtime/Dynamic Polymorphism -> acheived by method overriding

@@ -1,0 +1,12 @@
+
+//Single Inheritance -> One class extends another class
+
+//Mulilevel Inheritance -> d extends c, c extends b, b extends a
+
+//Multiple Inheritance ->  One class extends more than one class it's not directly possible in java. Because both parent class has same variable
+
+//Herarchial Inheritance -> One class inherit by many classes
+
+//Hybrid Inheritance -> Combination of Single and Multiple Inheritance. So that's it's not directly possible in java
+
+
