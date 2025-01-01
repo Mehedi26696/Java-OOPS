@@ -16,6 +16,8 @@ public class Con5{
                 System.out.println(mehedi.rno); 
                 System.out.println(mehedi.name);  
                 System.out.println(mehedi.marks);  
+
+                sc.close();
   
 
 

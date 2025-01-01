@@ -9,6 +9,10 @@ public class Wrap4{
 
                 Student musa = new Student();
 
+                musa.rno = 12;
+                musa.name = "Musa";
+                musa.marks = 45.89f;
+
                 final Student mehedi = new Student();
 
                 mehedi.rno =13;
@@ -19,6 +23,8 @@ public class Wrap4{
                 System.out.println(mehedi.marks);  
 
                 // mehedi = musa; not possible
+
+                sc.close();
 
 
                

@@ -9,6 +9,10 @@ public class Wrap1{
                 Scanner sc = new Scanner(System.in);
                 int a  = 10;
                 Integer num = 45;
+
+                System.out.println(a+num);
+
+                sc.close();
                 
           }
 }

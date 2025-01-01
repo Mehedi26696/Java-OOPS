@@ -15,5 +15,7 @@ public class Wrap3{
                // CHANGE = 45; //not posible
                 System.out.println(CHANGE);
 
+                sc.close();
+
           }
 }

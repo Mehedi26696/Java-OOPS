@@ -10,6 +10,8 @@ public class Des1{
                 Scanner sc = new Scanner(System.in);
                  A obj;
 
+                
+
 
                 // for(int i = 0; i<100;i++)
                 //  {
@@ -20,6 +22,12 @@ public class Des1{
                  {
                     obj = new A();
                  }
+
+                obj = new A();
+
+                System.out.println(obj.n);
+
+                 sc.close();
           }
 }
 

@@ -41,7 +41,7 @@ public class int1{
                 System.out.println(mehedi.name);  
                 System.out.println(mehedi.marks);  
 
-
+                sc.close();
                  
           }
 }

@@ -23,7 +23,7 @@ public class Con1{
                 System.out.println(mehedi.marks);  
 
 
-                 
+                sc.close();
           }
 }
 

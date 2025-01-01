@@ -28,6 +28,8 @@ public class Main{
                System.out.println(aurnob.married); 
                System.out.println(Human.population);
               // System.out.println(aurnob.population);  ////it will print 2
+
+               
           }
 }
 

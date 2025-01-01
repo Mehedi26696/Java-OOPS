@@ -23,6 +23,8 @@ public class Con6{
                 System.out.println(gakpo.rno); 
                 System.out.println(gakpo.name);  
                 System.out.println(gakpo.marks); 
+
+                sc.close();
   
 
 

@@ -25,6 +25,8 @@ public class Con7{
                 System.out.println(random.rno); 
                 System.out.println(random.name);  
                 System.out.println(random.marks);  
+
+                sc.close();
   
 
 

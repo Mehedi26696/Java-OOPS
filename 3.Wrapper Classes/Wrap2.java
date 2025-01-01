@@ -12,6 +12,8 @@ public class Wrap2{
                 swap(a,b);
                 //It's not swappin though passing Ineger(object) is pass by reference. Cause the keyword final that is used do define Integer class
                 System.out.println(a+" "+b);
+
+                sc.close();
           }
         public static void swap (Integer a, Integer b){
 
@@ -19,4 +21,6 @@ public class Wrap2{
             a = b;
             b = temp;
         }
+
+
 }

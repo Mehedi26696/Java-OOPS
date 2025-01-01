@@ -16,6 +16,8 @@ public class Con4{
                 mehedi.greeting();
                 mehedi.changename("Dominik Solankee");
                 mehedi.greeting();
+
+                sc.close();
   
 
 

@@ -25,7 +25,7 @@ public class Con2{
                 System.out.println(mehedi.name);  
                 System.out.println(mehedi.marks);  
 
-
+                sc.close();
                  
           }
 }
